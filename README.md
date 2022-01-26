@@ -1,6 +1,8 @@
-
+[![Header](https://github.com/gururajkoni04/gururaj_koni/blob/main/Behance%20Cover.jpg "Header")](https://wwww.konigraphics.in/)
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <h1 align="center">I'm Gururaj Koni</h1>
+
+
 <h3 align="center">Passionate about coding for Game-Development & Graphic Designer by hobby. Strong Leader. Always enthusiastic to learn & explore more.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gururajkoni04&label=Profile%20views&color=0e75b6&style=flat" alt="gururajkoni04" /> </p>
