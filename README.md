@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Gururaj Koni</h1>
+
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center">I'm Gururaj Koni</h1>
 <h3 align="center">Passionate about coding for Game-Development & Graphic Designer by hobby. Strong Leader. Always enthusiastic to learn & explore more.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gururajkoni04&label=Profile%20views&color=0e75b6&style=flat" alt="gururajkoni04" /> </p>
